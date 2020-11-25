@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">PacAbanades</string>
+    <string name="go_to_activity_2" translatable="true">ir a activity2</string>
+    <string name="go_to_activity_3" translatable="true">ir a activity3</string>
+    <string name="crear_tabla">Crear tabla.</string>
+    <string name="insertar_datos">Insertar datos</string>
+    <string name="consultar_datos">Consultar datos.</string>
+    <string name="volver_al_activity_1">Volver al activity 1</string>
+    <string name="daetener_servicio">Daetener servicio</string>
+    <string name="crear_nuevo_servicio">Crear nuevo servicio</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="a_os">Años</string>
+    <string-array name="spinner_array">
+        <item>Seleccionar opción</item>
+        <item>iniciar la reproducción de música</item>
+        <item>Detener la reproducción de música</item>
+        <item>Bloqueo por 150000ms</item>
+    </string-array>
+</resources>
